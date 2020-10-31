@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Rasal</h1>
+<h3 align="center">A passionate developer and devops from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamRasal" alt="ShubhamRasal" /> </p>
 
-<!--
-**ShubhamRasal/ShubhamRasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [mindbowser](https://mindbowser.com/)
 
-Here are some ideas to get you started:
+- 📝 I regulary write articles on [https://medium.com/@developer.shubham.rasal](https://medium.com/@developer.shubham.rasal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Java, Python, AWS, Jenkins, Docker, Kubernetes, Infrastructure as Code**
+
+- 📫 How to reach me **developer.shubham.rasal@gmail.com**
+
+- ⚡ Visit me **[shubhamrasal.me](http://shubhamrasal.me)**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepak-kumbhar&show_icons=true" alt="deepak-kumbhar" /> </p>
+
