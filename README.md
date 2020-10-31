@@ -12,5 +12,5 @@
 
 - ⚡ Visit me **[shubhamrasal.me](http://shubhamrasal.me)**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepak-kumbhar&show_icons=true" alt="deepak-kumbhar" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShubhamRasal&show_icons=true" alt="ShubhamRasal" /> </p>
 
