@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, Python, AWS, Jenkins, Docker, Kubernetes, Infrastructure as Code**
 
-- 📫 How to reach me **developer.shubham.rasal@gmail.com**
+- 📫 How to reach me **feedback@shubham.me**
 
 - ⚡ Visit me **[shubhamrasal.me](http://shubhamrasal.me)**
 
