@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [mindbowser](https://mindbowser.com/)
 
-- 📝 I regulary write articles on [https://medium.com/@developer.shubham.rasal](https://medium.com/@developer.shubham.rasal)
+- 📝 I regulary write articles on [https://developer-shubham-rasal.medium.com/](https://developer-shubham-rasal.medium.com/)
 
 - 💬 Ask me about **Java, Python, AWS, Jenkins, Docker, Kubernetes, Infrastructure as Code**
 
