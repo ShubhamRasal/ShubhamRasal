@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working at [mindbowser](https://mindbowser.com/)
 
-- 📝 I regulary write articles on [https://developer-shubham-rasal.medium.com/](https://developer-shubham-rasal.medium.com/) and [shubhamrasal.me/blog](https://shubhamrasal.me/blog)
+- 📝 I regulary write articles on [https://developer-shubham-rasal.medium.com/](https://developer-shubham-rasal.medium.com/) and [shubhamrasal.tech/blog](https://shubhamrasal.tech/blog)
 
 - 💬 Ask me about **Java, Python, AWS, Jenkins, Docker, Kubernetes, Infrastructure as Code**
 
 - 📫 How to reach me **feedback@shubhamrasal.me or developer.shubham.rasal@gmail.com**
 
-- ⚡ Visit me **[shubhamrasal.me](http://shubhamrasal.me)**
+- ⚡ Visit me **[shubhamrasal.me](http://shubhamrasal.tech)**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShubhamRasal&show_icons=true" alt="ShubhamRasal" /> </p>
 
