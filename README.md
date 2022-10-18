@@ -6,7 +6,7 @@
 
 - 📝 I regulary write articles on [https://developer-shubham-rasal.medium.com/](https://developer-shubham-rasal.medium.com/) and [shubhamrasal.tech/](https://shubhamrasal.tech/)
 
-- 💬 Ask me about **Java, Python, AWS, Jenkins, Docker, Kubernetes, Infrastructure as Code**
+- 💬 Ask me about **Golang, Python, AWS, Jenkins, Docker, Kubernetes, Infrastructure as Code**
 
 - 📫 How to reach me **developer.shubham.rasal@gmail.com**
 
