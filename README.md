@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [One2n Consulting](https://one2n.in/)
 
-- 📝 I regulary write articles on [https://developer-shubham-rasal.medium.com/](https://developer-shubham-rasal.medium.com/) and [shubhamrasal.tech/](https://shubhamrasal.tech/)
+- 📝 I regulary write articles on [https://developer-shubham-rasal.medium.com/](https://developer-shubham-rasal.medium.com/) and [shubhcodes.tech](https://www.shubhcodes.tech/#/)
 
 - 💬 Ask me about **Golang, Python, AWS, Jenkins, Docker, Kubernetes, Infrastructure as Code**
 
