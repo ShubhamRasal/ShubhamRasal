@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **developer.shubham.rasal@gmail.com**
 
-- ⚡ Visit me **[shubhamrasal.tech](http://shubhamrasal.tech)**
+- ⚡ Visit me **[shubhcodes.tech](https://www.shubhcodes.tech/#/)**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShubhamRasal&show_icons=true" alt="ShubhamRasal" /> </p>
 
