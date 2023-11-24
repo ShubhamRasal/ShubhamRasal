@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer and SRE from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamRasal" alt="ShubhamRasal" /> </p>
 
-- 🔭 I’m currently working at [One2n Consulting](https://one2n.in/)
+- 🔭 I am an experienced software developer and SRE, specializing in providing consulting and freelancing services.
 
 - 📝 I regulary write articles on [https://developer-shubham-rasal.medium.com/](https://developer-shubham-rasal.medium.com/) and [shubhcodes.tech](https://www.shubhcodes.tech/#/)
 
